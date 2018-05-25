@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectToolBarScroll", "PruebaToolBarScroll\ProjectToolBarScroll.csproj", "{C7D3406C-FEA6-433E-B3A0-8327912A71BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectToolBarScroll", "ProjectToolBarScroll\ProjectToolBarScroll.csproj", "{C7D3406C-FEA6-433E-B3A0-8327912A71BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
