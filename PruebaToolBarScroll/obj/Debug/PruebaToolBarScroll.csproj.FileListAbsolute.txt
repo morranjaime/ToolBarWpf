@@ -1,0 +1,34 @@
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\bin\Debug\PruebaToolBarScroll.exe
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\bin\Debug\PruebaToolBarScroll.pdb
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\MainWindow.g.cs
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\ToolBarScroll.g.cs
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\App.g.cs
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll_MarkupCompile.cache
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll_MarkupCompile.lref
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\App.baml
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\MainWindow.baml
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\ToolBarScroll.baml
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.g.resources
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.Properties.Resources.resources
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.csproj.GenerateResource.Cache
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.exe
+C:\Users\Srwitos\AppData\Local\Temporary Projects\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.pdb
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.exe
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.pdb
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\bin\Debug\PruebaToolBarScroll.exe
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\bin\Debug\PruebaToolBarScroll.pdb
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\MainWindow.g.cs
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\ToolBarScroll.g.cs
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\App.g.cs
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll_MarkupCompile.cache
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll_MarkupCompile.lref
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\App.baml
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\MainWindow.baml
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\ToolBarScroll.baml
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.g.resources
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.Properties.Resources.resources
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.csproj.GenerateResource.Cache
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.csproj.CoreCompileInputs.cache
+D:\Visual Basic Projects\PruebaToolBarScroll\PruebaToolBarScroll\obj\Debug\PruebaToolBarScroll.csprojResolveAssemblyReference.cache
